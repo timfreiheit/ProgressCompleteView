@@ -1,5 +1,21 @@
 ProgressCompleteView
 ======================
 
+<img src="md/demo.gif" height="600">
 
-![](https://raw.github.com/timfreiheit/ProgressCompleteView/master/md/demo.gif)
+
+
+## Install
+
+```groovy
+
+repositories {    
+    // ...    
+    maven { url "https://jitpack.io" }   
+}   
+
+dependencies {    
+    compile 'com.github.timfreiheit:ProgressCompleteView:XXX'
+}   
+
+```
