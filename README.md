@@ -1,5 +1,4 @@
 ProgressCompleteView
 ======================
 
-
-![](https://raw.github.com/timfreiheit/ProgressCompleteView/master/md/demo.gif)
+<img src="md/demo.gif" height="800">
